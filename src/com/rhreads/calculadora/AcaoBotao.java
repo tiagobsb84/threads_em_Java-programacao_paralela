@@ -2,7 +2,6 @@ package com.rhreads.calculadora;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.math.BigInteger;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
