@@ -10,5 +10,4 @@ public class Principal {
 		convidado1.start();
 		convidado2.start();
 	}
-
 }

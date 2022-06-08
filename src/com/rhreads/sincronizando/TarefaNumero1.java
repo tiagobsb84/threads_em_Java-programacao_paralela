@@ -12,5 +12,4 @@ public class TarefaNumero1 implements Runnable {
 	public void run() {
 		this.banheiro.fazendoNumero1();
 	}
-
 }
