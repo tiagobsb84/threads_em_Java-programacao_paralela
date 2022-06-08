@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Vector;
 
 public class Principal {
-
 	public static void main(String[] args) throws InterruptedException {
 		
 		List<String> lista = new Vector<String>();
@@ -19,5 +18,4 @@ public class Principal {
             System.out.println(lista.get(i));
         }
 	}
-
 }
